@@ -1,4 +1,4 @@
-Resumen de la historia familiar de Alba 
+Resumen de la historia familiar de Alba
 
 Página 1: Los orígenes del abuelo y las propiedades misteriosas
 La historia comienza con el relato del abuelo Schiavone, un hojalatero que adquirió propiedades de forma inexplicable:
@@ -40,4 +40,58 @@ Se mencionan historias no resueltas, como la posible herencia de campos:
 El relato cierra con un tono de aceptación:
 "Esas cosas eran tabú. [...] Si este cuento coincide con personajes reales, es pura casualidad".
 
-Fin del resumen
+
+Copy
+# Historia Familiar de Alba
+
+## El abuelo Schiavone y la hojalatería
+El abuelo Schiavone era hojalatero y tenía un taller donde reparaba objetos de hojalata. Según relatos, tras regresar de Salto, compró una caja fuerte y comenzó a adquirir propiedades en el centro, incluida una casa en la calle Zabala. La familia sospecha que los fondos para estas compras provenían de un acuerdo con la familia Ramos de Salto. Schiavone vivió en concubinato con Cesarina María Guedes, abuela de Alba, y tuvo una relación conflictiva con su pasado, incluyendo un intento de asesinato ordenado por un familiar.
+
+---
+
+## Propiedades familiares
+- **Casa Zabala**: Ubicada en la calle Zabala, con un terreno que luego se dividió para entregar una parte a la madre de Alba. 
+- **Casita frente a Zabala**: Otra propiedad del abuelo Schiavone, adquirida durante su etapa de compras.
+- **Campos en disputa**: Años después, personas de Los Ramos (Salto) contactaron a la familia para ofrecer reclamos sobre tierras, pero la familia decidió no reclamar por respeto a los habitantes locales.
+
+---
+
+## Relaciones y conflictos familiares
+### La abuela Cesarina
+- Hablaba portugués con dificultad para el castellano.
+- Tuvo una hermana de la que se sabe poco, vivía en un barrio modesto de Dagualenbo.
+- Crió a Maruja, la hija mayor de la familia, como si fuera su propia hija debido al descuido de la madre biológica.
+
+### Angelina y el escape
+- Angelina, tía de Alba, huyó con su amante y su hija tras descubrirse su relación adúltera. El marido de Angelina planeaba matarlos, pero lograron escapar. Un hijo de Angelina quedó con el padre y años después buscó a su madre sin éxito.
+
+### Hijos no reconocidos
+- El abuelo Nicolás tuvo hijos no reconocidos con una lavandera llamada Silva. Dos de ellos, Cholo y Raúl, visitaban a la familia años después, aunque su parentesco biológico nunca fue confirmado.
+
+---
+
+## Matrimonios y tragedias
+### Matrimonio de Alba
+- Alba se casó en 1995. Sus abuelos asistieron a la boda y ayudaron a preparar el ajuar, incluyendo bordados hechos por la abuela.
+
+### Pocha y sus intentos de suicidio
+- **Primer matrimonio**: Pocha se casó con Jorge Amari por despecho tras ser rechazada. Tuvo una hija, Elena.
+- **Intentos de suicidio**: Dos intentos previos (corte de venas y envenenamiento) antecedieron a su muerte. Falleció bajo circunstancias sospechosas mientras trabajaba como directora de un centro de asistencia en Maldonado.
+- **Relación con Rubén**: Vivió con él, pero su reputación se vio afectada por rumores sobre su relación con un joven motociclista.
+
+---
+
+## Vida cotidiana y anécdotas
+### La abuela Ana
+- Abuela paterna de Alba, vivía en el centro con la tía Julia. Visitada todos los domingos, ofrecía dulces de chocolate con licor.
+- Tenía pájaros y plantas en su casa, y mantenía una relación distante pero afectuosa con la familia.
+
+### Infancia de Alba
+- Contrastes entre la casa de sus padres (caótica, con platos esmaltados y desorganización) y la de sus abuelos (estructurada, con rituales como manteles y platos de porcelana).
+- Alba vivió un tiempo en Tacuarembó con sus abuelos, donde recibió una educación más disciplinada.
+
+---
+
+## Reflexiones finales
+- Alba atribuye su resiliencia y fe a las experiencias difíciles, como la muerte de Pocha y su propia infancia.
+- La historia familiar incluye secretos, disputas por tierras, y relaciones complejas que marcan la identidad de la familia.
